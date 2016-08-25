@@ -23,7 +23,7 @@
   "updates": [
     {
       "pkg": "com.manco.app.lock",
-      "url": "http://wequick.github.io/small/upgrade/libnet_wequick_example_small_app_about.so"
+      "url": "https://github.com/FreeTotoro/SmallRepo/raw/master/libcom_manco_app_lock.so"
     }
   ]
 }
