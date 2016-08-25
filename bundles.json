@@ -5,24 +5,24 @@
       {
       "uri": "lock",
       "pkg": "com.manco.app.lock"
-    },
-    {
+      },
+      {
       "uri": "lib.data",
       "pkg": "com.manco.lib.data"
-    },
-    {
+      },
+      {
       "uri": "lib.event",
       "pkg": "com.manco.lib.event"
-    },
-    {
+      },
+      {
       "uri": "lib.http",
       "pkg": "com.manco.lib.http"
-    }
+      }
     ]
   },
   "updates": [
     {
-      "pkg": "net.wequick.example.small.app.about",
+      "pkg": "com.manco.app.lock",
       "url": "http://wequick.github.io/small/upgrade/libnet_wequick_example_small_app_about.so"
     }
   ]
