@@ -21,9 +21,5 @@
     ]
   },
   "updates": [
-    {
-      "pkg": "com.manco.app.lock",
-      "url": "https://github.com/FreeTotoro/SmallRepo/raw/master/libcom_manco_app_lock.so"
-    }
   ]
 }
