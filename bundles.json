@@ -9,5 +9,9 @@
     ]
   },
   "updates": [
+  {
+  "pkg":"openads.app.lock",
+  "url":"https://raw.githubusercontent.com/FreeTotoro/SmallRepo/master/libopenads_app_lock.so"
+  }
   ]
 }
