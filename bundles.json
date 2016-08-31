@@ -2,10 +2,14 @@
   "manifest": {
     "version": "1.0.0",
     "bundles": [
-      {
-		    "uri": "lock",
-		    "pkg": "openads.app.lock"
-	    }
+	{
+      "uri": "main",
+      "pkg": "com.manco.app.main"
+    },
+    {
+	 "uri": "lock",
+	 "pkg": "openads.app.lock"
+	}
     ]
   },
   "updates": [
