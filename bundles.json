@@ -1,0 +1,13 @@
+{
+  "manifest": {
+    "version": "1.0.0",
+    "bundles": [
+    {
+	 "uri": "lock",
+	 "pkg": "openads.app.lock"
+	}
+    ]
+  },
+  "updates": [
+  ]
+}
