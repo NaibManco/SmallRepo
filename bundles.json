@@ -11,7 +11,7 @@
   "updates": [
   {
   "pkg":"openads.app.lock",
-  "versionCode":2
+  "versionCode":2,
   "url":"https://github.com/FreeTotoro/SmallRepo/blob/master/libopenads_app_lock.so?raw=true"
   }
   ]
