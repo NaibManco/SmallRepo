@@ -4,15 +4,15 @@
     "bundles": [
     {
 	 "uri": "lock",
-	 "pkg": "openads.app.lock"
+	 "pkg": "open.app.lock"
 	}
     ]
   },
   "updates": [
   {
-  "pkg":"openads.app.lock",
+  "pkg":"open.app.lock",
   "versionCode":2,
-  "url":"https://github.com/FreeTotoro/SmallRepo/blob/master/libopenads_app_lock.so?raw=true"
+  "url":"https://github.com/FreeTotoro/SmallRepo/blob/master/libopen_app_lock.so?raw=true"
   }
   ]
 }
