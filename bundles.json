@@ -3,16 +3,16 @@
     "version": "1.0.0",
     "bundles": [
     {
-	 "uri": "lock",
-	 "pkg": "open.app.lock"
+	 "uri": "supplies",
+	 "pkg": "open.app.supplies"
 	}
     ]
   },
   "updates": [
   {
-  "pkg":"open.app.lock",
+  "pkg":"open.app.supplies",
   "versionCode":2,
-  "url":"https://github.com/FreeTotoro/SmallRepo/blob/master/libopen_app_lock.so?raw=true"
+  "url":"https://github.com/FreeTotoro/SmallRepo/blob/master/libopen_app_supplies.so?raw=true"
   }
   ]
 }
