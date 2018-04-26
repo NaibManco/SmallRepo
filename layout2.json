@@ -1,0 +1,117 @@
+{
+  "type": "flex",
+  "viewStyle": {
+    "solidColor": "#999999",
+    "cornerRadius": 20
+  },
+  "padding": {
+    "left": 0,
+    "top": 0,
+    "right": 0,
+    "bottom": 20
+  },
+  "flexStyle": {
+    "flexDirection": "COLUMN"
+  },
+  "children": [
+    {
+      "type": "flex",
+      "flexStyle": {
+        "flexDirection": "ROW"
+      },
+      "children": [
+        {
+          "type": "image",
+          "content": {
+            "url": "https://pic1.zhimg.com/50/v2-6f02f0c13282dceccf53aabd8c3b6faf_hd.jpg"
+          },
+          "flexStyle": {
+            "alignSelf": "STRETCH",
+            "basisPercent": 0.5
+          }
+        },
+        {
+          "type": "image",
+          "content": {
+            "url": "https://pic1.zhimg.com/50/v2-6f02f0c13282dceccf53aabd8c3b6faf_hd.jpg"
+          },
+          "flexStyle": {
+            "alignSelf": "STRETCH",
+            "basisPercent": 0.5
+          },
+          "margin": {
+            "left": 20,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": {
+        "text": "报考在职研，拿下高校硕士学位，拥有研究生学历，结识行业大咖，提升眼界与认知，成就人生新高度！"
+      },
+      "padding": {
+        "left": 20,
+        "top": 20,
+        "right": 20,
+        "bottom": 20
+      },
+      "fontStyle": {
+        "fontSize": 12,
+        "font": "bold"
+      },
+      "flexStyle": {
+        "alignSelf": "STRETCH"
+      }
+    },
+    {
+      "type": "flex",
+      "flexStyle": {
+        "flexDirection": "ROW",
+        "justifyContent": "SPACE_BETWEEN",
+        "alignSelf": "STRETCH"
+      },
+      "padding": {
+        "left": 20,
+        "top": 5,
+        "right": 20,
+        "bottom": 0
+      },
+      "children": [
+        {
+          "type": "text",
+          "fontStyle": {
+            "fontSize": 10
+          },
+          "content": {
+            "text": "查看详情"
+          },
+          "viewStyle": {
+            "strokeWidth": 1,
+            "strokeColor": "#444444",
+            "solidColor": "#FFFFFF",
+            "cornerRadius": 5
+          }
+        },
+        {
+          "type": "text",
+          "fontStyle": {
+            "fontSize": 10
+          },
+          "content": {
+            "text": "胖虎 的广告"
+          },
+          "flexStyle": {
+            "alignSelf": "CENTER"
+          }
+        },
+        {
+          "type": "menu"
+        }
+      ]
+    }
+  ]
+}
